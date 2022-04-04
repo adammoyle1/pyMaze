@@ -9,5 +9,5 @@ Features:
   - Save and load mazes to/from .png format
 
 # Screenshots
-![dfs_maze2](https://user-images.githubusercontent.com/41011659/161563019-a015bb4f-900b-418e-a73c-01dc1e859bc9.png)
-![dfs_astar_maze](https://user-images.githubusercontent.com/41011659/161563024-4ccc0b3a-d4e2-4652-baff-38c7dc091afa.png)
+![dfs_maze2](https://user-images.githubusercontent.com/41011659/161563427-9e488a37-bbcc-4138-87a0-f6e4c557305d.png)
+![dfs_astar_maze](https://user-images.githubusercontent.com/41011659/161563430-2b20409b-7537-4a34-b076-2f9c31075f7e.png)
