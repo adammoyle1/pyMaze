@@ -6,6 +6,7 @@ Current algorithms implemented:
 
 Features:
   - Generation and solution of square/rectangular mazes
+  - Direction biasing
   - Save and load mazes to/from .png format
 
 # Screenshots
