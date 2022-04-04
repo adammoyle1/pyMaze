@@ -1,5 +1,6 @@
 # pyMaze
 A maze generator and solver written in python
+
 Current algorithms implemented:
   - Depth-first seach (generation and solution)
   - A* search (generation only)
